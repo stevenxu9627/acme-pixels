@@ -1,0 +1,23 @@
+h1{}
+.container{
+    display: flex;
+    flex-direction: column;
+    width:50%;
+    background-color: lightgrey;
+    /* margin:5rem 1rem; */
+    border: black solid 1px;
+}
+h3{
+    margin-left: 16px;
+    margin-top:40px;
+}
+button{
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    margin-left: 2.5%;
+    align-items: center;
+    height: 1.5rem;
+    justify-content: center;
+    margin: 0.5rem;
+}
